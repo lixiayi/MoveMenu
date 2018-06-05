@@ -115,7 +115,6 @@
 				TargetAttributes = {
 					028ADD3E1EF0CCD400874150 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = MV9CCWC8NT;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -279,7 +278,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = MV9CCWC8NT;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = YunTongKaTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.pcidata.YunTongKaTest;
@@ -292,7 +291,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = MV9CCWC8NT;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = YunTongKaTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.pcidata.YunTongKaTest;
